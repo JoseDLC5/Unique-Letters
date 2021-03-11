@@ -1,2 +1,2 @@
 # Unique-Letters
-Usage: ./unique <string>
+Usage: ./unique "string"
